@@ -1,0 +1,109 @@
+/* navbar */
+
+.navbar-dark .navbar-nav .nav-link {
+  color: rgb(255 255 255);
+  font-size: 20px;
+  padding-left: 40px;
+}
+
+#searchbox {
+  background-color: #fcc302;
+  color: #fff;
+  border: 0;
+  border-radius: 0;
+  position: relative;
+  left: 48px;
+  box-shadow: 0px 2px 5px grey;
+}
+
+#searchbox::placeholder {
+  color: #fff;
+}
+
+#searchbtn {
+  background-color: #31d2f2;
+  position: relative;
+  z-index: 99;
+  color: #fff;
+  border: 0;
+  border-radius: 0;
+}
+
+#banner {
+  background-color: #daac00;
+  padding-bottom: 20px;
+  padding-top: 20px;
+}
+
+/* title */
+
+#service {
+  padding-bottom: 20px;
+  padding-top: 20px;
+}
+#title {
+  background-color: #daac00;
+  padding-bottom: 20px;
+  padding-top: 20px;
+}
+.custom__card {
+  background-color: #daac00 !important;
+}
+
+#dog__title {
+  background-color: #daac00;
+  padding-bottom: 20px;
+  padding-top: 20px;
+}
+
+/* .card-title span {
+  text-decoration: line-through;
+} */
+
+.btn__buy {
+  height: auto;
+  width: 150px;
+  padding: 7px;
+  border-radius: 18px;
+  font-size: 16px;
+}
+.icon-style {
+  cursor: pointer;
+}
+
+#numaric {
+  background-image: url(./images/Group_07/bg_dog.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  padding-top: 250px;
+  padding-bottom: 230px;
+  background-size: cover;
+}
+
+.numaric-icon {
+  font-size: 70px;
+}
+.footer-custom a {
+  color: #fff;
+  text-decoration: none;
+}
+#search-box {
+  background-color: #daac00;
+  border: 0;
+  color: #fff;
+  padding: 15px;
+  max-width: 250px;
+  position: relative;
+  left: 10px;
+}
+#search-btn {
+  background-color: #31d2f2;
+  border: 0;
+  padding: 15px 40px;
+  border-radius: 0;
+}
+
+.social-icon {
+  font-size: 20px;
+  cursor: pointer;
+}
